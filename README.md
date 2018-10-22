@@ -2,7 +2,7 @@
 LEDCube4x4x4 project made using a 8-bit ATtiny45 microprocessor and three 74HC595N shift registers.
 Atmel Studio was used to create, compile and flash binary.
 
-I've published original source code with Polish spelling because I can't verify if the project is still working after porting to English.
+I've published original source code with Polish spelling because I can't verify if the project is still working after porting to English (in terms of spelling mistakes/typos committed during porting).
 
 If You have any questions about project please feel free to contact me via github or klepackijacek94@gmail.com
 
