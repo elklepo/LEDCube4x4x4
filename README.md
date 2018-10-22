@@ -11,10 +11,10 @@ Description of the repository tree:
 root
 │   README.md			// this file
 │   diagram.jpg			// board electronic circuit diagram
-│   pcb.jpg				// printed circuit board
-│	assembled_front.jpg // a photo of a board from above
+│   pcb.jpg		        // printed circuit board
+│	assembled_front.jpg     // a photo of a board from above
 │	assembled_back.jpg 	// a photo of a board from behind
-│	demo.mp4		 	// video showing the working board
+│	demo.mp4                // video showing the working board
 │
 └───src
 │   │   main.c 			// main program loop
