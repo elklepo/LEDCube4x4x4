@@ -23,3 +23,7 @@ root
 │   │   _cube.h
 │   │   _cube.c			// I/O and interrupt initialization + interrupt implementation
 ```
+![Led Cube front view](assembled_front.jpg "Front view")
+![Led Cube back view](assembled_back.jpg "Back view")
+![Led Cube assembled PCB](pcb.jpg "Assembled PCB")
+![Led Cube circuit design](diagram.jpg "Circuit design")
