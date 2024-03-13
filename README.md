@@ -4,8 +4,6 @@ Atmel Studio was used to create, compile and flash binary.
 
 I've published original source code with Polish spelling because I can't verify if the project is still working after porting to English (in terms of spelling mistakes/typos committed during porting).
 
-If You have any questions about project please feel free to contact me via github or klepackijacek94@gmail.com
-
 Description of the repository tree:
 ```
 root
